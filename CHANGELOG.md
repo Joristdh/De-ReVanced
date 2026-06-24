@@ -4,6 +4,20 @@
 ### Bug Fixes
 
 * included new files ([0fcc42d](https://github.com/Joristdh/Platypatch/commit/0fcc42de5be796ad7fb637fc7ae426c816c66fb5))
+* update gradle ([5de8552](https://github.com/Joristdh/Platypatch/commit/5de8552f7ddac101ebcce6dfe1a03365d8087d1c))
+* update gradle ([7f126d8](https://github.com/Joristdh/Platypatch/commit/7f126d8a814f965485b6c02da4920a852eebd16f))
+
+
+### Features
+
+* port humzakh's experimental s2r patch ([3beae82](https://github.com/Joristdh/Platypatch/commit/3beae829feec81b750af7129cc04f84276669605))
+
+# [1.2.0-dev.2](https://github.com/Joristdh/Platypatch/compare/v1.2.0-dev.1...v1.2.0-dev.2) (2026-06-24)
+
+
+### Bug Fixes
+
+* included new files ([0fcc42d](https://github.com/Joristdh/Platypatch/commit/0fcc42de5be796ad7fb637fc7ae426c816c66fb5))
 * update gradle ([7f126d8](https://github.com/Joristdh/Platypatch/commit/7f126d8a814f965485b6c02da4920a852eebd16f))
 
 
