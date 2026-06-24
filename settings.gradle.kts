@@ -20,7 +20,7 @@ pluginManagement {
 }
 
 plugins {
-    id("app.morphe.patches") version "1.2.0"
+    id("app.morphe.patches") version "1.3.2"
 }
 
 settings {
@@ -34,3 +34,4 @@ settings {
 }
 
 include(":patches:stub")
+include(":extensions:syncforreddit")

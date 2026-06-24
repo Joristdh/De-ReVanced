@@ -1,3 +1,75 @@
+# [1.2.0-dev.2](https://github.com/Joristdh/Platypatch/compare/v1.2.0-dev.1...v1.2.0-dev.2) (2026-06-24)
+
+
+### Bug Fixes
+
+* force new release ([c0f680a](https://github.com/Joristdh/Platypatch/commit/c0f680ac7aea1daab5a69230c5f90de963696fcd))
+* included new files ([0fcc42d](https://github.com/Joristdh/Platypatch/commit/0fcc42de5be796ad7fb637fc7ae426c816c66fb5))
+* update gradle ([5de8552](https://github.com/Joristdh/Platypatch/commit/5de8552f7ddac101ebcce6dfe1a03365d8087d1c))
+* update gradle ([7f126d8](https://github.com/Joristdh/Platypatch/commit/7f126d8a814f965485b6c02da4920a852eebd16f))
+
+
+### Features
+
+* force new release ([569168e](https://github.com/Joristdh/Platypatch/commit/569168e38c78f4a65ca73dd2965b150df12aca61))
+* port humzakh's experimental s2r patch ([3beae82](https://github.com/Joristdh/Platypatch/commit/3beae829feec81b750af7129cc04f84276669605))
+
+# [1.2.0-dev.2](https://github.com/Joristdh/Platypatch/compare/v1.2.0-dev.1...v1.2.0-dev.2) (2026-06-24)
+
+
+### Bug Fixes
+
+* force new release ([c0f680a](https://github.com/Joristdh/Platypatch/commit/c0f680ac7aea1daab5a69230c5f90de963696fcd))
+* included new files ([0fcc42d](https://github.com/Joristdh/Platypatch/commit/0fcc42de5be796ad7fb637fc7ae426c816c66fb5))
+* update gradle ([5de8552](https://github.com/Joristdh/Platypatch/commit/5de8552f7ddac101ebcce6dfe1a03365d8087d1c))
+* update gradle ([7f126d8](https://github.com/Joristdh/Platypatch/commit/7f126d8a814f965485b6c02da4920a852eebd16f))
+
+
+### Features
+
+* port humzakh's experimental s2r patch ([3beae82](https://github.com/Joristdh/Platypatch/commit/3beae829feec81b750af7129cc04f84276669605))
+
+# [1.2.0-dev.2](https://github.com/Joristdh/Platypatch/compare/v1.2.0-dev.1...v1.2.0-dev.2) (2026-06-24)
+
+
+### Bug Fixes
+
+* included new files ([0fcc42d](https://github.com/Joristdh/Platypatch/commit/0fcc42de5be796ad7fb637fc7ae426c816c66fb5))
+* update gradle ([5de8552](https://github.com/Joristdh/Platypatch/commit/5de8552f7ddac101ebcce6dfe1a03365d8087d1c))
+* update gradle ([7f126d8](https://github.com/Joristdh/Platypatch/commit/7f126d8a814f965485b6c02da4920a852eebd16f))
+
+
+### Features
+
+* port humzakh's experimental s2r patch ([3beae82](https://github.com/Joristdh/Platypatch/commit/3beae829feec81b750af7129cc04f84276669605))
+
+# [1.2.0-dev.2](https://github.com/Joristdh/Platypatch/compare/v1.2.0-dev.1...v1.2.0-dev.2) (2026-06-24)
+
+
+### Bug Fixes
+
+* included new files ([0fcc42d](https://github.com/Joristdh/Platypatch/commit/0fcc42de5be796ad7fb637fc7ae426c816c66fb5))
+* update gradle ([7f126d8](https://github.com/Joristdh/Platypatch/commit/7f126d8a814f965485b6c02da4920a852eebd16f))
+
+
+### Features
+
+* port humzakh's experimental s2r patch ([3beae82](https://github.com/Joristdh/Platypatch/commit/3beae829feec81b750af7129cc04f84276669605))
+
+# [1.2.0-dev.2](https://github.com/Joristdh/Platypatch/compare/v1.2.0-dev.1...v1.2.0-dev.2) (2026-06-24)
+
+
+### Features
+
+* port humzakh's experimental s2r patch ([3beae82](https://github.com/Joristdh/Platypatch/commit/3beae829feec81b750af7129cc04f84276669605))
+
+# [1.2.0-dev.1](https://github.com/Joristdh/Platypatch/compare/v1.1.3...v1.2.0-dev.1) (2026-06-24)
+
+
+### Features
+
+* port humzakh's experimental s2r patch ([6c8ba70](https://github.com/Joristdh/Platypatch/commit/6c8ba706c7c3af22947a63e6dcc777748130a7e9))
+
 ## [1.1.3](https://github.com/Joristdh/Platypatch/compare/v1.1.2...v1.1.3) (2026-04-16)
 
 
