@@ -1,3 +1,10 @@
+# [1.2.0-dev.1](https://github.com/Joristdh/Platypatch/compare/v1.1.3...v1.2.0-dev.1) (2026-06-24)
+
+
+### Features
+
+* port humzakh's experimental s2r patch ([6c8ba70](https://github.com/Joristdh/Platypatch/commit/6c8ba706c7c3af22947a63e6dcc777748130a7e9))
+
 ## [1.1.3](https://github.com/Joristdh/Platypatch/compare/v1.1.2...v1.1.3) (2026-04-16)
 
 
