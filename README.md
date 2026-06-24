@@ -28,7 +28,7 @@
 | App | Patches |
 | :--- | :--- |
 | `universal` | Predictive back gesture|
-| `Reddit Sync` | Swipe to return fix|
+| `Reddit Sync` | Swipe to return transparency fix|
 
 ### How to use these patches
 
